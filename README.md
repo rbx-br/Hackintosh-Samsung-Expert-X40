@@ -1,7 +1,7 @@
 # Hackintosh Samsung Expert X40 - 270E-NP270E5K
 ### Generate your own SMBIOS, recommended MacBookPro16,1
 
-Compatible symbios with macos tahoe. But without graphic acceleration until OCLP update comes out
+Compatible symbios with macOS Tahoe. But without graphic acceleration until OCLP update comes out
 
 ![Samsung X40](https://github.com/user-attachments/assets/30740f5d-7c4e-4ea5-b315-48432d42fc3d)
 
